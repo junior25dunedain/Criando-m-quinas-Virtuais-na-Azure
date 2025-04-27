@@ -1,4 +1,3 @@
-# Criando-máquinas-Virtuais-na-Azure
 
 # Guia Completo: Máquinas Virtuais na Azure 🚀
 
